@@ -1,7 +1,7 @@
 ![result](https://github.com/ManikMaity/ManikMaity/assets/110734724/212fc670-6a22-4e1d-aeb1-f4a5b21f2afe)
 
 # 💫 About Me:
-🔭 I’m currently working on my frontend development skills. Here is my recent project Four Card Feature Section 🧑‍💻<br><br>🌱 I’m currently learning CSS, Web Design, CSS Framework.<br><br>👨‍💻 All of my projects are available at https://github.com/ManikMaity<br><br>💬 Ask me about CSS, Web Design and Responsive Website<br><br>📫 How to reach me manikmaity156@gmail.com<br><br>⚡ Fun fact I like learning things.
+🔭 I’m currently working on my frontend development skills. Here is my recent project [Order Summary Componenr](https://github.com/ManikMaity/order-summary-component) 🧑‍💻<br><br>🌱 I’m currently learning CSS, Web Design, CSS Framework.<br><br>👨‍💻 All of my projects are available at https://github.com/ManikMaity<br><br>💬 Ask me about CSS, Web Design and Responsive Website<br><br>📫 How to reach me manikmaity156@gmail.com<br><br>⚡ Fun fact I like learning things.
 
 
 ## 🌐 Socials:
