@@ -1,10 +1,15 @@
-<div style="display: grid;
-  place-content:center; margin-bottom:30px;">
-  <img src="https://github.com/ManikMaity/ManikMaity/assets/110734724/212fc670-6a22-4e1d-aeb1-f4a5b21f2afe" alt="">
+<div align="center" style="margin:0px 0px;">
+
+![textanim-SAWjL](https://github.com/ManikMaity/ManikMaity/assets/110734724/3acddd65-4aaf-4258-bd6e-96a5110be59c)
+
+
+  
 </div>
 
 # 💫 About Me:
-<img  style="width: 200px; margin:auto;" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif" alt="">
+  <div align="center">
+   <img  style="width: 200px;" src="https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif" alt="">
+  </div>
 <p style="overflow: auto;">
   🔭 Hello, I'm Manik Maity from Kolkata 🌆, and I'm on a journey to become a <strong>full-stack developer 💻</strong>. My heart beats for development, and I'm always hungry to learn and embark on exciting projects 🚀. Drawing from my marketing background, I bring a unique perspective to development by understanding user preferences 🧐 and crafting user-friendly interfaces 🎨.</p>
 
