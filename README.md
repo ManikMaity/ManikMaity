@@ -1,4 +1,4 @@
-<div align="center" style="margin:0px 0px;">
+<div align="center">
 <img src="https://github.com/ManikMaity/ManikMaity/assets/110734724/3acddd65-4aaf-4258-bd6e-96a5110be59c" alt="Manik Maity">
 </div>
 
