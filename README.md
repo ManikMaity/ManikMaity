@@ -1,6 +1,7 @@
-<div align="center">
-<img src="https://github.com/ManikMaity/ManikMaity/assets/110734724/3acddd65-4aaf-4258-bd6e-96a5110be59c" alt="Manik Maity" width="100%">
-</div>
+ <div align="center">
+   <img  style="width: 600px;" src="https://github.com/ManikMaity/ManikMaity/assets/110734724/3a51d5aa-f02a-4be5-ba0a-eeecc605a0d6" alt="">
+  </div>
+
 
 # 💫 About Me:
   <div align="center">
