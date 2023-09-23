@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-<img align='right' src='https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif' style="margin:20px;" width='300'>
+<img align='right' src='https://media.giphy.com/media/uhkgRdrMSnqDBofJru/giphy.gif' width='350'>
 🔭 Hello, I'm Manik Maity from Kolkata 🌆, and I'm on a journey to become a <strong>full-stack developer 💻</strong>. My heart beats for development, and I'm always hungry to learn and embark on exciting projects 🚀. Drawing from my marketing background, I bring a unique perspective to development by understanding user preferences 🧐 and crafting user-friendly interfaces 🎨. 
 
 ###
@@ -14,6 +14,7 @@
 - Actively pursuing full-stack development skills 🦸‍♂️
 - Committed to self-directed learning 👨‍🔧
 - Passionate about reading Manhwa 🙆‍♂️
+- Building and Learning🏗
 
 
 ## 🌐 Socials:
