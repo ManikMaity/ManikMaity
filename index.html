@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,28 +12,31 @@
 
     <!-- stylesheet link  -->
     <link rel="stylesheet" href="./style.css">
-    
+
 </head>
-<body class="bg-my-black h-screen w-full flex flex-col items-center font-Popi">
+
+<body class="bg-my-black w-full flex flex-col items-center font-Popi">
     <!-- navbar section starts here  -->
     <nav class="w-full max-w-5xl px-10 py-8 lg:py-14 flex md:flex-row flex-col justify-between items-center">
         <div class="logo w-full md:w-auto">
             <a class="" href="#">
-                <img class="w-10" src="./assets/logo.svg" alt="Manik Maity">
+                <img width="40px" src="./assets/logo.svg" alt="Manik Maity">
             </a>
         </div>
-        <ul class="hidden md:flex flex-col md:flex-row font-DM text-my-gray items-center gap-3 lg:gap-6 hover:[&>*]:text-white font-medium w-full md:w-auto [&>*]:w-full text-center">
+        <ul
+            class="hidden md:flex flex-col md:flex-row font-DM text-my-gray items-center gap-3 lg:gap-6 hover:[&>*]:text-white font-medium w-full md:w-auto [&>*]:w-full text-center">
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Technologies</a></li>
             <li><a href="#">Projects</a></li>
             <li><a href="#">Contact</a></li>
-            <l><a class="text-xs px-4 py-[0.3rem] bg-my-gradient text-white rounded-full whitespace-nowrap" href="#">Download Resume</a></li>
-            <div class="md:hidden flex items-center mt-6 justify-around hover:[&>*]:brightness-150">
-                <li><a href="#"><img class="w-6" src="./assets/icons/github.svg" alt="github"></a></li>
-                <li><a href="#"><img class="w-6" src="./assets/icons/linkedin.svg" alt="linkedIn"></a></li>
-                <li><a href="#"><img class="w-6" src="./assets/icons/envelope-solid.svg" alt="mail"></a></li>
-            </div>
+            <l><a class="text-xs px-4 py-[0.3rem] bg-my-gradient text-white rounded-full whitespace-nowrap"
+                    href="#">Download Resume</a></li>
+                <div class="md:hidden flex items-center mt-6 justify-around hover:[&>*]:brightness-150">
+                    <li><a href="#"><img class="w-6" src="./assets/icons/github.svg" alt="github"></a></li>
+                    <li><a href="#"><img class="w-6" src="./assets/icons/linkedin.svg" alt="linkedIn"></a></li>
+                    <li><a href="#"><img class="w-6" src="./assets/icons/envelope-solid.svg" alt="mail"></a></li>
+                </div>
         </ul>
         <ul class=" hidden md:flex items-center gap-3 lg:gap-6 hover:[&>*]:brightness-150">
             <li><a href="#"><img class="w-6" src="./assets/icons/github.svg" alt="github"></a></li>
@@ -44,13 +48,15 @@
     <!-- navbar section ends here  -->
 
     <!-- hero section starts here  -->
-    <section class="w-full max-w-5xl text-my-white px-10 py-20">
+    <section class="w-full max-w-5xl text-my-white px-5 sm:px-10 py-20">
         <div class="flex items-center justify-between">
-            <div class="font-bold text-[2.5rem]">
-                <h1>Hi,👋</h1>
-                <h1>My Name is</h1>
-                <h1 class="bg-clip-text text-transparent bg-my-gradient">Manik Maity</h1>
-                <h1>I am a Developer</h1>
+            <div class="font-semibold text-4xl md:text-5xl">
+                <h1 class="[&>span]:block">
+                    <span>Hi,👋</span>
+                    <span>My Name is</span>
+                    <span class="bg-clip-text text-transparent bg-my-gradient">Manik Maity</span>
+                    <span>I am a Developer</span>
+                </h1>
             </div>
             <div class="hidden sm:inline-block">
                 <div class="h-52 rounded-full p-1 bg-my-gradient">
@@ -60,5 +66,137 @@
         </div>
     </section>
     <!-- hero section ends here  -->
+
+    <!-- about me section starts here  -->
+    <section class="w-full max-w-5xl text-my-white px-5 sm:px-10 py-20 flex flex-col gap-10">
+        <!-- short summery -->
+        <div>
+            <h2 class="font-semibold text-2xl md:text-5xl mb-4 sm:mb-8">About Me</h2>
+            <p class="text-my-gray md:w-[85%]  text-sm sm:text-base">Frontend developer having expertise in frontend
+                development and highly motivated individual dedicated to writing clear, concise, robust code that works.
+                I like creating products that either have fun and nifty features or solve a genuine problem for people.
+            </p>
+        </div>
+        <!-- short summery ends here -->
+        <!-- education starts here  -->
+        <div>
+            <h2 class="font-semibold text-2xl md:text-5xl mb-0 sm:mb-4">Education</h2>
+            <div class="flex flex-col gap-5">
+
+                <!-- card one  -->
+                <div class="flex flex-col w-full gap-2 sm:gap-4 py-4 border-b-2 border-my-gray border-opacity-30">
+                    <div class="flex justify-between gap-4">
+                        <p class="text-sm sm:text-base md:text-xl font-light">Full Stack Developer Bootcamp</p>
+                        <a class="h-6 text-xs font-light px-2 sm:px-4 bg-my-gradient text-white rounded-full whitespace-nowrap flex items-center"
+                            href="#">Full Time</a>
+                    </div>
+                    <div class="flex justify-between text-[0.8rem] md:text-sm font-extralight gap-4">
+                        <div class="flex gap-0 sm:gap-6 flex-col sm:flex-row">
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/building-columns-solid.svg" alt="">
+                                <p>PW Skills</p>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/thumbtack-solid.svg" alt="">
+                                <p>Online</p>
+                            </div>
+                        </div>
+                        <p>2022 - 2023</p>
+                    </div>
+                </div>
+                <!-- card one ends here  -->
+
+                <!-- card two  -->
+                <div class="flex flex-col w-full gap-2 sm:gap-4 py-4 border-b-2 border-my-gray border-opacity-30">
+                    <div class="flex justify-between gap-4">
+                        <p class="text-sm sm:text-base md:text-xl font-light">Bachelor of Commerce</p>
+                        <a class="h-6 text-xs font-light px-2 sm:px-4 bg-my-gradient text-white rounded-full whitespace-nowrap flex items-center"
+                            href="#">Full Time</a>
+                    </div>
+                    <div class="flex justify-between text-[0.8rem] md:text-sm font-extralight gap-4">
+                        <div class="flex gap-0 sm:gap-6 flex-col sm:flex-row">
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/building-columns-solid.svg" alt="">
+                                <p>BESC</p>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/thumbtack-solid.svg" alt="">
+                                <p>Kolkata</p>
+                            </div>
+                        </div>
+                        <p>2022 - 2023</p>
+                    </div>
+                </div>
+                <!-- card two ends here  -->
+
+
+
+            </div>
+        </div>
+        <!-- education ends here  -->
+
+        <!-- work exp starts here  -->
+        <div>
+            <h2 class="font-semibold text-2xl md:text-5xl mb-0 sm:mb-4">Work Experience</h2>
+            <div class="flex flex-col gap-5">
+
+                <!-- card one  -->
+                <div class="flex flex-col w-full gap-2 sm:gap-4 py-4 border-b-2 border-my-gray border-opacity-30">
+                    <div class="flex justify-between gap-4">
+                        <p class="text-sm sm:text-base md:text-xl font-light">Report Writer</p>
+                        <a class="h-6 text-xs font-light px-2 sm:px-4 bg-my-gradient text-white rounded-full whitespace-nowrap flex items-center"
+                            href="#">Part Time</a>
+                    </div>
+                    <div class="flex justify-between text-[0.8rem] md:text-sm font-extralight gap-4">
+                        <div class="flex gap-0 sm:gap-6 flex-col sm:flex-row">
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/building-columns-solid.svg" alt="">
+                                <p>Shilpi Consultant</p>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <img class="h-3" src="./assets/icons/thumbtack-solid.svg" alt="">
+                                <p>Kolkata</p>
+                            </div>
+                        </div>
+                        <p>2022 - 2023</p>
+                    </div>
+                </div>
+                <!-- card one ends here  -->
+            </div>
+        </div>
+        <!-- work exp ends here  -->
+    </section>
+    <!-- about me section ends here  -->
+
+    <section class="w-full max-w-5xl text-my-white px-5 sm:px-10 py-20 flex flex-col gap-10">
+    <div>
+        <div class=" mb-4 sm:mb-8">
+            <h2 class="font-semibold text-2xl md:text-5xl mb-2">Tech Stack</h2>
+            <p class="text-my-gray md:w-[85%]  text-sm sm:text-base">Technologies I've been working with recently</p>
+        </div>
+        <div class="flex flex-wrap [&>*]:h-10 sm:[&>*]:h-16 md:[&>*]:h-24 lg:[&>*]:h-32 gap-8">
+            <img src="./assets/skills-icons/vscode-icons_file-type-html.svg" alt="html">
+            <img src="./assets/skills-icons/vscode-icons_file-type-css.svg" alt="css">
+            <img src="./assets/skills-icons/vscode-icons_file-type-js-official.svg" alt="JavaScript">
+            <img src="./assets/skills-icons/logos_bootstrap.svg" alt="Bootstrap">
+            <img src="./assets/skills-icons/vscode-icons_file-type-tailwind.svg" alt="Tailwind CSS">
+            <img src="./assets/skills-icons/c-program-icon.svg" alt="C Lang">
+        </div>
+    </div>
+    <div>
+        <div class=" mb-4 sm:mb-8">
+            <h2 class="font-semibold text-2xl md:text-5xl mb-2">Tools</h2>
+        </div>
+        <div class="flex flex-wrap [&>*]:h-10 sm:[&>*]:h-16 md:[&>*]:h-24 lg:[&>*]:h-32 gap-8">
+            <img src="./assets/skills-icons/logos_git-icon.svg" alt="Git">
+            <img src="./assets/skills-icons/vscode-icons_file-type-vscode.svg" alt="VS Code">
+            <img src="./assets/skills-icons/akar-icons_github-fill.svg" alt="GitHub">
+            <img src="./assets/skills-icons/figma-icon.svg" alt="Figma">
+        </div>
+    </div>
+    </section>
+
+
 </body>
+
 </html>
