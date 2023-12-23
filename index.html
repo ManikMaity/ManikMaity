@@ -18,13 +18,19 @@
 <body class="bg-my-black w-full flex flex-col items-center font-Popi">
     <!-- navbar section starts here  -->
     <nav class="w-full max-w-5xl px-10 py-8 lg:py-14 flex md:flex-row flex-col justify-between items-center">
-        <div class="logo w-full md:w-auto">
+        <div class="flex justify-between w-full md:w-auto">
             <a class="" href="#">
                 <img width="40px" src="./assets/logo.svg" alt="Manik Maity">
             </a>
+
+            <button id="hamburger" class="flex md:hidden cursor-pointer flex-col gap-2">
+                <div class="h-[0.15rem] w-7 bg-my-white"></div>
+                <div class="h-[0.15rem] w-7 bg-my-white"></div>
+                <div class="h-[0.15rem] w-7 bg-my-white"></div>
+            </button>
         </div>
         <ul
-            class="hidden md:flex flex-col md:flex-row font-DM text-my-gray items-center gap-3 lg:gap-6 hover:[&>*]:text-white font-medium w-full md:w-auto [&>*]:w-full text-center">
+            class="hidden md:flex [&>li]:mb-3 md:[&>li]:mb-0 flex-col md:flex-row font-DM text-my-gray items-center md:gap-3 lg:gap-6 hover:[&>*]:text-white font-medium w-full md:w-auto [&>*]:w-full text-center mt-6 md:mt-0">
             <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Technologies</a></li>
@@ -379,6 +385,56 @@
     </section>
     <!-- contact section ends here  -->
 
+
+    <!-- footer section starts here  -->
+    <footer class="w-full max-w-5xl text-my-white px-5 sm:px-10 pt-20 pb-5 flex flex-col gap-10">
+        <div>
+            <div class="flex flex-col md:flex-row justify-between md:items-center py-6 gap-5 border-b border-my-gray border-opacity-30">
+                <a class="flex h-12" href="#">
+                     <img height="100%" src="./assets/logo.svg" alt="logo">
+                </a>
+            <div class="flex flex-col md:flex-row md:items-center md:w-[55%] justify-between gap-5 md:gap-0">
+                <div class="flex flex-col md:flex-row font-DM text-my-gray text-sm md:items-center gap-2 md:gap-3 lg:gap-6 hover:[&>*]:text-white font-medium">
+                    <a href="mail:">manikmaity010@gmail.com</a>
+                    <a href="tel:+919330685099">9330685099</a>
+                </div>
+                <div class="flex items-center gap-6 hover:[&>*]:brightness-150 list-none">
+                    <li><a href="#"><img class="w-6" src="./assets/icons/github.svg" alt="github"></a></li>
+                    <li><a href="#"><img class="w-6" src="./assets/icons/linkedin.svg" alt="linkedIn"></a></li>
+                    <li><a href="#"><img class="w-6" src="./assets/icons/envelope-solid.svg" alt="mail"></a></li>
+                </div>
+            </div>
+            </div>
+            <div class="flex flex-col md:flex-row justify-between md:items-center mt-6 font-DM text-my-gray">
+                <ul class="flex flex-col md:flex-row md:items-center gap-3 lg:gap-6 hover:[&>*]:text-white font-medium">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Technologies</a></li>
+                    <li><a href="#">Projects</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+                <p class="text-center md:text-left mt-8 md:mt-0">Developed by <a class="bg-my-gradient text-transparent bg-clip-text" href="#">Manik Maity</a>👨‍💻</p>
+            </div>
+        </div>
+
+    </footer>
+    <!-- footer section starts here  -->
+
+    <!-- Add this script after your HTML code, preferably just before the closing </body> tag -->
+<!-- Add this script after your HTML code, preferably just before the closing </body> tag -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Get the hamburger button and the navigation menu
+        const hamburgerButton = document.getElementById("hamburger");
+        const navigationMenu = document.querySelector("ul.hidden.flex-col.md\\:flex-row");
+
+        // Add a click event listener to the hamburger button
+        hamburgerButton.addEventListener("click", function () {
+            // Toggle the 'hidden' class on the navigation menu
+            navigationMenu.classList.toggle("hidden");
+        });
+    });
+</script>
 
 
 </body>
