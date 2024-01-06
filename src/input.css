@@ -2,3 +2,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+   
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #13B0F5 -2.06%, #E70FAA 100%); 
+    border-radius: 10px;
+  }
+  
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(90deg, #0b668d -2.06%, #82085f 100%); 
+  }

@@ -13,7 +13,8 @@ module.exports = {
       colors :{
         "my-gray" : '#A7A7A7',
         "my-white" : '#CCC',
-        "my-black" : "#191919"
+        "my-black" : "#191919",
+        "my-darkGray" : "#363636"
       }
     },
   },
