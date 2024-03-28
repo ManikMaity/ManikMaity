@@ -31,7 +31,7 @@
 # 📊 GitHub Stats:
  <img align="right" src='https://github-readme-streak-stats.herokuapp.com?user=ManikMaity&theme=dark'>
  <img align="center" src='https://api.githubtrends.io/user/svg/ManikMaity/repos?time_range=three_months&theme=dark'>
-  <img  align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ManikMaity&layout=compact'> 
+  <img  align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ManikMaity&layout=compact&theme=dark'> 
 
 
 # ✍️ Dev Quote
