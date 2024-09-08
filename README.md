@@ -11,7 +11,6 @@
 
 ###
 - Enthusiastic about Software Development 👨‍💻
-- Currently enrolled in Harvard's CS50x 👨‍🎓
 - Actively pursuing full-stack development skills 🦸‍♂️
 - Committed to self-directed learning 👨‍🔧
 - Building and Learning🏗
@@ -35,6 +34,10 @@
         <img src="https://skillicons.dev/icons?i=npm" alt="npm">
         <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
         <img src="https://skillicons.dev/icons?i=react" alt="React">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express">
+        <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
+        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux">
     </div>
   </a>
 </p>
