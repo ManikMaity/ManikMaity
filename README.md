@@ -38,6 +38,8 @@
         <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
         <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
     </div>
   </a>
 </p>
