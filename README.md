@@ -1,55 +1,53 @@
- <div align="center">
-<img align='center' src='https://github.com/ManikMaity/ManikMaity/assets/110734724/435689f3-b962-4e64-9e66-48de979d2494' alt = "Hi, My name is Manik!👨‍💻 GIF Loading...🏗">
-   
-  </div >
+<p align="center"><a href="https://github.com/ManikMaity"><img width="50%" alt="Hello, I'm Manik! I love coding!" src="https://github.com/ManikMaity/ManikMaity/assets/110734724/435689f3-b962-4e64-9e66-48de979d2494" /></a></p>
+
+<br />
+
+I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
+
+## 🍃 About me
+
+- 💼 Currently building my skills as a Full-Stack Developer  
+- 🚀 Actively working on improving React and backend technologies  
+- 🛠️ Built multiple projects, including a cryptocurrency tracker and other applications  
+- ❤️ I love JavaScript and exploring new tools and libraries  
+- 💬 Ask me anything [here](https://github.com/ManikMaity/ManikMaity/issues)
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat-square&logo=daisyui)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Zustand](https://img.shields.io/badge/-Zustand-0078D7?style=flat-square&logo=zustand)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=node.js)
+![Mongoose](https://img.shields.io/badge/-Mongoose-red?style=flat-square&logo=mongoose)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger)
+![Zod](https://img.shields.io/badge/-Zod-blue?style=flat-square&logo=zod)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=cloudinary)
 
 
-# 💫 About Me:
-<img align='right' src='https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif' width='200' > 
 
-🧑‍💻Self-taught developer known for delivering high-quality projects and fostering effective collaboration. With a strong aptitude for learning and a natural inclination as a problem solver, I quickly adapt to new technologies and environments.
+| <a href="https://github.com/ManikMaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManikMaity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manik's GitHub stats" /></a> | <a href="https://github.com/ManikMaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikMaity&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
+# 📊 Weekly WakaTime Stats:
 
-###
-- Enthusiastic about Software Development 👨‍💻
-- Actively pursuing full-stack development skills 🦸‍♂️
-- Committed to self-directed learning 👨‍🔧
-- Building and Learning🏗
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/manik.maity.5099940) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_its_manik) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manikmaity) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/manik-maity/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikmaity010@gmail.com) [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc98a58a14-6691-47f1-8637-18c25b277192)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_manikmaity)
-
-# 💻 Tech Stack:
-<p align="center">
-  <a href="https://skillicons.dev">
-     <div>
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
-        <img src="https://skillicons.dev/icons?i=npm" alt="npm">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
-        <img src="https://skillicons.dev/icons?i=react" alt="React">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express">
-        <img src="https://skillicons.dev/icons?i=jest" alt="Jest">
-        <img src="https://skillicons.dev/icons?i=ts" alt="Typescript">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-    </div>
-  </a>
-</p>
-
-# 📊 GitHub Stats:
- <img align="right" src='https://github-readme-streak-stats.herokuapp.com?user=ManikMaity&theme=dark'>
- <img align="center" src='https://api.githubtrends.io/user/svg/ManikMaity/repos?time_range=three_months&theme=dark'>
-  <img  align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=ManikMaity&layout=compact&theme=dark'> 
-
-
-# ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
