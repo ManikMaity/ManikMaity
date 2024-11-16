@@ -50,4 +50,15 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 # 📊 Weekly WakaTime Stats:
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 14 November 2024 - To: 15 November 2024
+
+Total Time: 4 hrs 8 mins
+
+JavaScript   2 hrs 45 mins   >>>>>>>>>>>>>>>>>--------   66.81 %
+Markdown     1 hr 17 mins    >>>>>>>>-----------------   31.02 %
+Bash         4 mins          -------------------------   01.79 %
+```
+
 <!--END_SECTION:waka-->
