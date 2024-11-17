@@ -48,7 +48,7 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 | <a href="https://github.com/ManikMaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManikMaity&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Manik's GitHub stats" /></a> | <a href="https://github.com/ManikMaity/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManikMaity&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-# 📊 Weekly WakaTime Stats:
+## 📊 Weekly WakaTime Stats:
 
 <!--START_SECTION:waka-->
 
