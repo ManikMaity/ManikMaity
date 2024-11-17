@@ -41,6 +41,7 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=cloudinary)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=jest&logoColor=white)
 
 
 
