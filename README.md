@@ -10,6 +10,7 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 - 🚀 Actively working on improving React and backend technologies  
 - 🛠️ Built multiple projects, including a AI Course WebApp, LivePoll and other applications  
 - ❤️ I love JavaScript and exploring new tools and libraries  
+- 💹 View my this week's stats [here](https://wakatime.com/@manikmaity)
 - 💬 Ask me anything [here](https://github.com/ManikMaity/ManikMaity/issues)
 
 ## ⚡ Technologies
