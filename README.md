@@ -65,7 +65,7 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
 Total Time: 0 secs
 
