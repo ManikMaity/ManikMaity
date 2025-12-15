@@ -65,11 +65,15 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-Total Time: 0 secs
+Total Time: 19 mins
 
-No activity tracked
+TypeScript   12 mins         ████████████████▓░░░░░░░░   66.39 %
+JavaScript   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+JSON         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Bash         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
