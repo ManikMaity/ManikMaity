@@ -65,16 +65,16 @@ I'm a self-taught, passionate Full-Stack Developer from India 🇮🇳
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2026 - To: 06 March 2026
+From: 28 February 2026 - To: 07 March 2026
 
-Total Time: 15 hrs 44 mins
+Total Time: 15 hrs 16 mins
 
-TypeScript   14 hrs 32 mins        ███████████████████████░░   92.36 %
-JSON         52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-TSConfig     8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-CSS          5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Bash         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   14 hrs 11 mins        ███████████████████████▒░   92.87 %
+JSON         51 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+TSConfig     6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+CSS          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
