@@ -41,18 +41,19 @@ I'm a Full-Stack Developer from India 🇮🇳 focused on building scalable SaaS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-Total Time: 34 hrs 29 mins
+Total Time: 38 hrs 53 mins
 
-TypeScript    9 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
-Markdown      8 hrs 24 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
-JavaScript    8 hrs 18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Bash          2 hrs 17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-Caddyfile     1 hr 5 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JSON          1 hr 4 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Text          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Other         12 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+TypeScript    12 hrs 45 mins        ████████▒░░░░░░░░░░░░░░░░   32.82 %
+Markdown      9 hrs 45 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.11 %
+JavaScript    8 hrs 19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+Bash          2 hrs 28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Text          1 hr 26 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Caddyfile     1 hr 5 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+SQL           43 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+HTML          19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
