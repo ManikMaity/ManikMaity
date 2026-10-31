@@ -41,13 +41,17 @@ I'm a Full-Stack Developer from India 🇮🇳 focused on building scalable SaaS
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 33 hrs 39 mins
+Total Time: 32 hrs 3 mins
 
-TypeScript    15 hrs 9 mins         ███████████▒░░░░░░░░░░░░░   45.06 %
-Markdown      11 hrs 55 mins        █████████░░░░░░░░░░░░░░░░   35.44 %
-Other         2 hrs 6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+TypeScript    16 hrs 3 mins         ████████████▓░░░░░░░░░░░░   50.11 %
+Markdown      11 hrs 13 mins        ████████▓░░░░░░░░░░░░░░░░   35.00 %
+Bash          1 hr 3 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+SQL           51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+JavaScript    43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+JSON          43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other         37 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
